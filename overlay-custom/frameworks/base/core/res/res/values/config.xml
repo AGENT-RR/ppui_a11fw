@@ -33,6 +33,9 @@
     <!-- Show a custom view for FOD -->
     <bool name="config_needCustomFODView">true</bool>
 
+    <!-- Whether the device supports in-display fingerprint when screen if turned off-->
+    <bool name="config_supportsScreenOffInDisplayFIngerprint">true</bool>
+
     <!-- Whether the device has a popup camera -->
     <bool name="config_hasPopupCamera">true</bool>
 
